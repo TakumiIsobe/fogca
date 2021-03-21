@@ -1,0 +1,28 @@
+[
+{
+"title":"Aconcagua",
+"description":
+"Aconcagua is a mountain in the Principal Cordillera of the Andes mountain range, in Mendoza Province, Argentina. It is the highest mountain in the Americas and the highest outside of Asia, being the highest in both the Southern and Western Hemispheres with a summit elevation of 6,960.8 metres.",
+"height":"6,962 m",
+"countries":["Argentina"],
+"continent":"South 
+America","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Aconcagua2016.jpg/600px-Aconcagua2016.jpg",
+"dir":"/mountains",
+"path":"/mountains/aconcagua",
+"slug":"Aconcagua",
+"updatedAt":"2020-12-11T15:40:35.000Z"
+},
+
+{
+"title":"Vinson Massif",
+"description":"Vinson Massif is a large mountain massif in Antarctica that is 21 km long and 13 km wide and lies within the Sentinel Range of the Ellsworth Mountains. It overlooks the Ronne Ice Shelf near the base of the Antarctic Peninsula. The massif is located about 1,200 kilometres from the South Pole.",
+"height":"4,892 m",
+"countries":["Antarctic"],
+"continent":"Antarctic",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mount_Vinson_from_NW_at_Vinson_Plateau_by_Christian_Stangl_%28flickr%29.jpg/600px-Mount_Vinson_from_NW_at_Vinson_Plateau_by_Christian_Stangl_%28flickr%29.jpg",
+"dir":"/mountains",
+"path":"/mountains/vinson-massif",
+"slug":"vinson-massif",
+"updatedAt":"2020-12-11T15:40:35.000Z"
+}
+]
