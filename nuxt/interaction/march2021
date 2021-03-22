@@ -12,3 +12,19 @@
       
      
     </div>
+    
+    <style>
+    
+    .project-slug-wrapper {width: 100%; text-align: center; margin: auto; padding-top: 25rem;}
+
+    #slug img {
+        width: 55vw;
+        height: 33vw;
+        margin: 5rem auto;
+        }
+        #slug p {width: 50%; margin: auto}
+    .project-slug-contents-wrapper {
+        margin-top: 10rem;
+        }
+
+</style>
