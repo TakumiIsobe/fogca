@@ -1,1 +1,14 @@
-a
+    <div class="project-slug-wrapper">
+      <img src="~assets/image/crot.jpg" alt="">
+      <h1>Crot.Jp</h1>
+      <h3>Online Store - Vintage Items</h3>
+      <h4>February 2021<br>Designed by a Front-end Developer, Takumi Isobe</h4>
+      
+      <div class="project-slug-contents-wrapper">
+          <h2>- Brand Concept -</h2>
+          <p>Using rich animation and motion design to create the automotive platform of the future. Users are able to explore each feature of the car in full detail and truly understand what makes each Lucid Motor special. Not only that, users can customise their model to create something that feels more personal to them, in a way that’s elegant, smooth, and engaging.</p>
+          <img src="~assets/image/crot.jpg" alt="">
+      </div>
+      
+     
+    </div>
